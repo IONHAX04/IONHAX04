@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Thiru a.k.a. Ionhax</h1>
+<h1 align="center">Hi 👋, I'm Thiru (Mr Ionhax)</h1>
 <h3 align="center">Full stack & Android app developer</h3>
 
+- 🔭 I’m currently working as **Android App Developer (Free lancer) & Full Stack Developer**
+
+- 👯 My role **Software Engineer @ Iamneo.ai**
+
 - 👨‍💻 All of my projects are available at [https://ionhax04.github.io/Portfolio-/](https://ionhax04.github.io/Portfolio-/)
+
+- 💬 About me... **I'm Thirukumara, a Final Year Computer Science and Engineering student at Sona College of Technology. I thrive on the excitement of exploring the vast realm of technology and pushing the boundaries of what's possible. My journey into the world of technology began with a spark of curiosity, and it has evolved into a burning passion for innovation. As a relentless problem-solver, I am always eager to tackle challenges head-on and find ingenious solutions. I've dedicated myself to mastering the art of Full Stack and Android App Development, immersing myself in the latest tools and techniques to stay at the forefront of the field. My time at InternEzy has been nothing short of exhilarating, providing me with invaluable hands-on experience and the opportunity to unleash my creativity. Python, C, and C++ are not just programming languages to me; they are pathways to endless possibilities. With each line of code I write, I feel empowered to turn ideas into reality and make a tangible impact on the world around me. Currently, I am on a thrilling journey as a freelance Android app developer, where I get to channel my passion into creating innovative solutions for clients worldwide. Additionally, my role as a Software Engineer Intern at Iamneo.ai has been an exhilarating ride, allowing me to dive deep into the heart of cutting-edge technologies and contribute to groundbreaking projects. I am driven by the exhilaration of discovery and the thrill of pushing the boundaries of what's possible. Let's connect and embark on an exciting journey together, where we can unleash our creativity, drive innovation, and make a lasting impact in the world of technology. Excitedly looking forward to connecting with like-minded individuals and exploring new opportunities!**
 
 - 📫 How to reach me **thirukumara04@gmail.com**
 

@@ -51,9 +51,6 @@ Hey'll..<br>I'm Thiru, a Computer Science and Engineering student at Sona Colleg
 , allowing admins to add and update details, candidates to view status, and recruiters to manage interview results.
 - **Tools:** HTML, CSS, JavaScript, React, Bootstrap, Vercel
 
-### 📋 Internship Management System (Jan 2024)
-- Built a centralized platform for students to discover and apply for internships, and for administrators to review applications and generate internship-related reports.
-- **Tools:** React, Fast API, SQLite
 
 ## 🌟 Featured Skills:
 - **Full Stack Development:** React, Node.js, Express.js, MySQL, MongoDB, Firebase
